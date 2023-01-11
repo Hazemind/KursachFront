@@ -1,3 +1,5 @@
+Там много node_modeules не буду их загружать
+
 # meal-prep
 
 ## Project setup
